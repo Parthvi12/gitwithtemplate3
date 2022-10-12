@@ -3252,6 +3252,7 @@
         "layoutOnLoadActions": [
           [
             {
+              "id": "Dashboard2_assetsByMake",
               "name": "allCustomerList",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -3261,6 +3262,7 @@
           ],
           [
             {
+              "id": "Dashboard2_assetsByMake",
               "name": "NumberOfCustomers",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -3268,6 +3270,7 @@
               "timeoutInMillisecond": 10000
             },
             {
+              "id": "Dashboard2_assetsByMake",
               "name": "doNotDisturbCount",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -3277,6 +3280,7 @@
           ],
           [
             {
+              "id": "Dashboard2_assetsByMake",
               "name": "GetMarketingList",
               "confirmBeforeExecute": false,
               "pluginType": "DB",

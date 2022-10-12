@@ -1518,6 +1518,7 @@
         "layoutOnLoadActions": [
           [
             {
+              "id": "Dashboard2_assetsByMake",
               "name": "FindQuery",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
