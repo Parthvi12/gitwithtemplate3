@@ -3252,7 +3252,6 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Send Messages_allCustomerList",
               "name": "allCustomerList",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -3262,7 +3261,6 @@
           ],
           [
             {
-              "id": "Send Messages_NumberOfCustomers",
               "name": "NumberOfCustomers",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -3270,7 +3268,6 @@
               "timeoutInMillisecond": 10000
             },
             {
-              "id": "Send Messages_doNotDisturbCount",
               "name": "doNotDisturbCount",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -3280,7 +3277,6 @@
           ],
           [
             {
-              "id": "Send Messages_GetMarketingList",
               "name": "GetMarketingList",
               "confirmBeforeExecute": false,
               "pluginType": "DB",

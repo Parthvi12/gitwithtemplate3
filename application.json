@@ -1,6 +1,17 @@
 {
   "pages": [
     {
+      "id": "Dashboard",
+      "isDefault": false
+    },
+    {
+      "id": "Search",
+      "isDefault": false
+    },
+    {
+      "isDefault": false
+    },
+    {
       "id": "Send Messages",
       "isDefault": false
     },
@@ -11,13 +22,23 @@
     {
       "id": "Page1",
       "isDefault": true
+    },
+    {
+      "id": "Page2",
+      "isDefault": false
     }
   ],
   "viewMode": false,
   "appIsExample": false,
   "unreadCommentThreads": 0,
-  "color": "#C7F3E3",
-  "icon": "book",
+  "color": "#ECECEC",
+  "icon": "pizza",
+  "unpublishedAppLayout": {
+    "type": "DESKTOP"
+  },
+  "publishedAppLayout": {
+    "type": "DESKTOP"
+  },
   "evaluationVersion": 2,
   "applicationVersion": 1,
   "isManualUpdate": false,
